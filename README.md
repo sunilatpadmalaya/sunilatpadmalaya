@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunilatpadmalaya
 - 👀 I’m interested in Blockchain 
-- 🌱 I’m currently learning Hyperleder, Ethereum
+- 🌱 I’m currently learning Hyperledger, Ethereum
 - 💞️ I’m looking to collaborate on open source blockchain projects
 - 📫 How to reach me sunil.padmalaya@gmail.com
 
